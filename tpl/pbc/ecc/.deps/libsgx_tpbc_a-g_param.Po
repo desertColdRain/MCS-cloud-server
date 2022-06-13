@@ -1,0 +1,67 @@
+ecc/libsgx_tpbc_a-g_param.o: ecc/g_param.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /home/cold/intel/sgxsdk/include/tlibc/string.h \
+ /usr/local/include/sgx_tgmp.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/tlibc/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/limits.h include/pbc_utils.h \
+ include/pbc_field.h include/pbc_poly.h include/pbc_hilbert.h \
+ include/pbc_fp.h include/pbc_fieldquadratic.h include/pbc_mnt.h \
+ include/pbc_curve.h include/pbc_param.h include/pbc_pairing.h \
+ include/pbc_memory.h include/pbc_g_param.h ecc/param.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/string.h:
+
+/usr/local/include/sgx_tgmp.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/limits.h:
+
+include/pbc_utils.h:
+
+include/pbc_field.h:
+
+include/pbc_poly.h:
+
+include/pbc_hilbert.h:
+
+include/pbc_fp.h:
+
+include/pbc_fieldquadratic.h:
+
+include/pbc_mnt.h:
+
+include/pbc_curve.h:
+
+include/pbc_param.h:
+
+include/pbc_pairing.h:
+
+include/pbc_memory.h:
+
+include/pbc_g_param.h:
+
+ecc/param.h:

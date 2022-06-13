@@ -1,0 +1,56 @@
+ecc/libsgx_tpbc_a-hilbert.o: ecc/hilbert.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /usr/local/include/sgx_tgmp.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/tlibc/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/math.h \
+ /home/cold/intel/sgxsdk/include/tlibc/float.h include/pbc_utils.h \
+ include/pbc_field.h include/pbc_poly.h include/pbc_hilbert.h \
+ include/pbc_memory.h misc/darray.h ecc/mpc.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/usr/local/include/sgx_tgmp.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/math.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/float.h:
+
+include/pbc_utils.h:
+
+include/pbc_field.h:
+
+include/pbc_poly.h:
+
+include/pbc_hilbert.h:
+
+include/pbc_memory.h:
+
+misc/darray.h:
+
+ecc/mpc.h:

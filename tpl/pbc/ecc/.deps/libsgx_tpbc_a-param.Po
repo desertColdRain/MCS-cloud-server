@@ -1,0 +1,69 @@
+ecc/libsgx_tpbc_a-param.o: ecc/param.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/string.h \
+ /usr/local/include/sgx_tgmp.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/tlibc/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/limits.h include/pbc_utils.h \
+ include/pbc_memory.h include/pbc_param.h include/pbc_a_param.h \
+ include/pbc_mnt.h include/pbc_d_param.h include/pbc_e_param.h \
+ include/pbc_f_param.h include/pbc_a1_param.h include/pbc_g_param.h \
+ include/pbc_i_param.h misc/symtab.h misc/darray.h ecc/param.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/string.h:
+
+/usr/local/include/sgx_tgmp.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/limits.h:
+
+include/pbc_utils.h:
+
+include/pbc_memory.h:
+
+include/pbc_param.h:
+
+include/pbc_a_param.h:
+
+include/pbc_mnt.h:
+
+include/pbc_d_param.h:
+
+include/pbc_e_param.h:
+
+include/pbc_f_param.h:
+
+include/pbc_a1_param.h:
+
+include/pbc_g_param.h:
+
+include/pbc_i_param.h:
+
+misc/symtab.h:
+
+misc/darray.h:
+
+ecc/param.h:

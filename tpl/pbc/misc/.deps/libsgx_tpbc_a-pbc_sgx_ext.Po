@@ -1,0 +1,27 @@
+misc/libsgx_tpbc_a-pbc_sgx_ext.o: misc/pbc_sgx_ext.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/sgx_trts.h \
+ /home/cold/intel/sgxsdk/include/sgx_error.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/sgx_defs.h include/pbc_sgx_ext.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/sgx_trts.h:
+
+/home/cold/intel/sgxsdk/include/sgx_error.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/sgx_defs.h:
+
+include/pbc_sgx_ext.h:

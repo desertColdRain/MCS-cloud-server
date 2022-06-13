@@ -1,0 +1,51 @@
+arith/libsgx_tpbc_a-poly.o: arith/poly.c \
+ /home/cold/intel/sgxsdk/include/tlibc/ctype.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /usr/local/include/sgx_tgmp.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/tlibc/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/limits.h include/pbc_utils.h \
+ include/pbc_field.h include/pbc_multiz.h include/pbc_poly.h \
+ include/pbc_memory.h misc/darray.h
+
+/home/cold/intel/sgxsdk/include/tlibc/ctype.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/usr/local/include/sgx_tgmp.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/limits.h:
+
+include/pbc_utils.h:
+
+include/pbc_field.h:
+
+include/pbc_multiz.h:
+
+include/pbc_poly.h:
+
+include/pbc_memory.h:
+
+misc/darray.h:

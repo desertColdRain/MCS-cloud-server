@@ -1,0 +1,8 @@
+/home/cold/intel/MPAC-MLDP2/build/CMakeFiles/rebuild_cache.dir
+/home/cold/intel/MPAC-MLDP2/build/CMakeFiles/edit_cache.dir
+/home/cold/intel/MPAC-MLDP2/build/App/CMakeFiles/rebuild_cache.dir
+/home/cold/intel/MPAC-MLDP2/build/App/CMakeFiles/main.dir
+/home/cold/intel/MPAC-MLDP2/build/App/CMakeFiles/edit_cache.dir
+/home/cold/intel/MPAC-MLDP2/build/Enclave/CMakeFiles/rebuild_cache.dir
+/home/cold/intel/MPAC-MLDP2/build/Enclave/CMakeFiles/enclave.dir
+/home/cold/intel/MPAC-MLDP2/build/Enclave/CMakeFiles/edit_cache.dir

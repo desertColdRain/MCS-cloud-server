@@ -1,0 +1,30 @@
+misc/libsgx_tpbc_a-memory.o: misc/memory.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/string.h include/pbc_utils.h \
+ include/pbc_memory.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/stdint.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/string.h:
+
+include/pbc_utils.h:
+
+include/pbc_memory.h:

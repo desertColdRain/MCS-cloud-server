@@ -1,0 +1,10 @@
+misc/libsgx_tpbc_a-get_time.o: misc/get_time.c \
+ /home/cold/intel/sgxsdk/include/tlibc/time.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h
+
+/home/cold/intel/sgxsdk/include/tlibc/time.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:

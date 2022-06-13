@@ -1,0 +1,26 @@
+misc/libsgx_tpbc_a-darray.o: misc/darray.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdlib.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /home/cold/intel/sgxsdk/include/tlibc/string.h include/pbc_memory.h \
+ misc/darray.h /home/cold/intel/sgxsdk/include/tlibc/assert.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdlib.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/string.h:
+
+include/pbc_memory.h:
+
+misc/darray.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/assert.h:

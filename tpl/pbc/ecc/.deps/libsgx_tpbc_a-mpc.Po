@@ -1,0 +1,27 @@
+ecc/libsgx_tpbc_a-mpc.o: ecc/mpc.c \
+ /home/cold/intel/sgxsdk/include/tlibc/stdio.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/_types.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stdarg.h \
+ /usr/local/include/sgx_tgmp.h \
+ /home/cold/intel/sgxsdk/include/tlibc/stddef.h \
+ /home/cold/intel/sgxsdk/include/tlibc/limits.h \
+ /home/cold/intel/sgxsdk/include/tlibc/sys/limits.h ecc/mpc.h
+
+/home/cold/intel/sgxsdk/include/tlibc/stdio.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/cdefs.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/_types.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stdarg.h:
+
+/usr/local/include/sgx_tgmp.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/stddef.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/limits.h:
+
+/home/cold/intel/sgxsdk/include/tlibc/sys/limits.h:
+
+ecc/mpc.h:

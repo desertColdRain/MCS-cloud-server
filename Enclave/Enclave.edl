@@ -1,0 +1,16 @@
+enclave{
+
+include "../Enclave/Enclave.h"
+
+  trusted{
+      /* initialize the pairing system */
+       public sgx_status_t e_pairing_init([in, size=count] char* s, size_t count);
+      /*verify the signature*/
+      public sgx_status_t verify_signature([user_check] char* msg, [user_check]  char* pub,[user_check] char* sign);
+  };
+
+
+  untrusted {
+  void o_print_str([in, string]const char* str);
+  };
+};

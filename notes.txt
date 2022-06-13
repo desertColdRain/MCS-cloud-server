@@ -1,0 +1,1 @@
+1. to use mysql, you must add the -lmysqlclient to the command line, in cmakelist, you need to add it in TARGET_LINK_LIBRARIES,such as TARGET_LINK_LIBRARIES(main  mysqlclient)
